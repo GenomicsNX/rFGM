@@ -7,7 +7,7 @@ Functional genomic mRNA (FGM) profiling is an approach that generates a co-regul
 rFGM Workflow 
 --------
 <p align="center">
-  <img src="figure/rfgm.png" width="701" height="1010" title="rFGM workflow">
+  <img src="figure/rfgm.png" width="60%" height="60%" title="rFGM workflow">
 </p>
 
 
