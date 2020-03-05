@@ -1,4 +1,4 @@
-# setwd('/Volumes/NHLBI_BCB/vijender/07-bigdata/FGM-Profiling/rFGM/')
+# setwd('/Volumes/NHLBI_BCB/FGM-Profiling/rFGM/')
 
 # Load functions
 
